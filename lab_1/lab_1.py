@@ -77,14 +77,6 @@ def function_chart():
                
             else:
                 print('No input')
-
-            
-            # list_input=input_f.split(',')
-
-            
-            # plot([int(x) for x in list_input ])
-            # show()
-            
             break
         except ValueError:
             print('This is not a intiger  number')
